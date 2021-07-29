@@ -216,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django tests.Test: polls.tests">
+  <component name="RunManager" selected="Django server.mysite">
     <configuration name="Test: polls.tests" type="DjangoTestsConfigurationType" temporary="true">
       <module name="mysite" />
       <option name="INTERPRETER_OPTIONS" value="" />
